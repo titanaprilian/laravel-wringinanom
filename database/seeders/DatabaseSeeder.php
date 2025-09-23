@@ -15,17 +15,17 @@ class DatabaseSeeder extends Seeder
     public function run(): void
     {
         $this->call([
-            UserSeeder::class,
+            // UserSeeder::class,
 
             // Document Seeder
-            // DocumentSeeder::class,
-            // BirthNoteSeeder::class,
-            // DeathNoteSeeder::class,
-            // LetterDeathSeeder::class,
-            // LetterBusinessSeeder::class,
-            // LetterFuelSeeder::class,
-            // LetterIncapacitiesSeeder::class,
-            // LetterLostSeeder::class,
+            DocumentSeeder::class,
+            BirthNoteSeeder::class,
+            DeathNoteSeeder::class,
+            LetterDeathSeeder::class,
+            LetterBusinessSeeder::class,
+            LetterFuelSeeder::class,
+            LetterIncapacitiesSeeder::class,
+            LetterLostSeeder::class,
 
             // Budget & Demographic Seeder
             BudgetCategorySeeder::class,

@@ -4,7 +4,7 @@
         <div class="text-center relative z-10 text-4xl">
             <span class="text-primary">Agenda</span> <br>
             <span class="text-primary">Kreasi <span class="text-secondary">Desa</span> </span> <br>
-            <span class="text-primary">Wringinanom</span>
+            <span class="text-primary">Sambiganen</span>
         </div>
     </div>
 

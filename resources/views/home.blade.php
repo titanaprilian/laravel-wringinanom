@@ -51,11 +51,11 @@
         <section class="flex flex-row gap-8 md:justify-center md:gap-16 md:px-24 fade-in-sec-one">
             <div class="w-1/2 space-y-4">
                 <div class="space-y-2">
-                    <h1 class="font-dusha text-3xl md:text-4xl text-primary">Wringinanom</h1>
+                    <h1 class="font-dusha text-3xl md:text-4xl text-primary">Sambinganen</h1>
                     <h2 class="font-dusha text-2xl md:text-3xl text-cyan">Kisahku</h2>
                 </div>
                 <p class="font-poppins text-sm md:text-base text-gray-700">
-                    Desa Wringinanom adalah sebuah desa yang kaya akan kearifan lokal dan warisan budaya yang telah dilestarikan secara turun-temurun.
+                    Desa Sambinganen adalah sebuah desa yang kaya akan kearifan lokal dan warisan budaya yang telah dilestarikan secara turun-temurun. 
                 </p>
                 <div>
                     <a
@@ -283,7 +283,7 @@
 
         <!-- Lembaga -->
         <section class="w-11/12 mx-auto mt-16 text-center fade-in-sec-seven">
-            <h2 class="text-3xl font-dusha text-primary mb-8">Lembaga Yang Ada Di Desa Wringinanom</h2>
+            <h2 class="text-3xl font-dusha text-primary mb-8">Lembaga Yang Ada Di Desa Sambiganen</h2>
             <!-- Mobile-->
             <div class="grid grid-cols-2 md:hidden gap-8 justify-center mobile">
                 @foreach ($organizations as $organization)

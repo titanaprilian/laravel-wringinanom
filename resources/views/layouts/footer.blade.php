@@ -5,9 +5,9 @@
             <a href="{{ route('home') }}" class="flex gap-2">
                 <img class="h-16 w-16 lg:h-24 lg:w-24" src="{{asset('assets/img/logo.svg')}}" alt="logo ponorogo">
                 <div class="flex flex-col justify-center lg:gap-2">
-                    <h1 class="text-lg lg:text-3xl">Desa Wringinanom</h1>
+                    <h1 class="text-lg lg:text-3xl">Desa Sambiganen</h1>
                     <div>
-                        <p class="text-xs md:text-sm leading-4">Kec. Sambit, Kab. Ponorogo <br /> Jawa Timur</p>
+                        <p class="text-xs md:text-sm leading-4">Kec. Ngrayun, Kab. Ponorogo <br /> Jawa Timur</p>
                     </div>
                 </div>
             </a>
@@ -79,21 +79,21 @@
                 <!-- logo email -->
                 <div class="flex gap-4 mb-4">
                     <img src="{{ asset('assets/img/email.svg')}}" alt="email.svg" class=" bg-white w-8 rounded p-1">
-                    <p class="font-medium outline outline-2 outline-white p-1 rounded">wringinanomp@gmail.com</p>
+                    <p class="font-medium outline outline-2 outline-white p-1 rounded">dummyemail@gmail.com</p>
                 </div>
 
                 <!-- logo telepon -->
                 <div class="flex gap-4 mb-4">
                     <img src="{{ asset('assets/img/phone.svg')}}" alt="phone.svg" class="bg-white w-8 rounded p-1">
-                    <p class="font-medium outline outline-2 outline-white p-1 rounded">+6287887390669</p>
+                    <p class="font-medium outline outline-2 outline-white p-1 rounded">+dummyphonenumber</p>
                 </div>
             </div>
 
             <!-- alamat -->
             <div class="font-poppins">
                 <p class="font-medium text-lg my-2">Alamat</p>
-                <p>Jalan Kresno Nomor 41, Desa Wringinanom,</p>
-                <p>Kecamatan Sambit, Kabupaten Ponorogo</p>
+                <p>Desa Sambiganen,</p>
+                <p>Kecamatan Ngrayun, Kabupaten Ponorogo</p>
             </div>
         </div>
 
@@ -108,7 +108,7 @@
     </div>
 
     <!-- watermark -->
-    <p class="font-poppins font-medium text-white text-center py-4">Copyright 2025 - Arcanum Code</p>
+    <p class="font-poppins font-medium text-white text-center py-4">Copyright 2025 - Apakah perlu diganti</p>
 
 </footer>
 

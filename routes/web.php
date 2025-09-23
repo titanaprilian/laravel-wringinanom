@@ -5,6 +5,7 @@ use App\Http\Controllers\ComplaintController;
 use App\Http\Controllers\CreationController;
 use App\Http\Controllers\DocumentController;
 use App\Http\Controllers\GalleryController;
+use App\Http\Controllers\HistoryController;
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\NewsController;
 use App\Http\Controllers\OrganizationController;
@@ -20,7 +21,7 @@ use Illuminate\Support\Facades\Route;
 Route::controller(HomeController::class)->group(function () {
     Route::get('/', 'index')->name('home');
     Route::get('/profil', 'profile')->name('profil');
-    Route::get('/sejarah', 'history')->name('sejarah');
+    Route::get('/sejarah', [HistoryController::class, 'index'])->name('sejarah');
 });
 
 // Static Content Routes

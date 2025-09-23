@@ -9,7 +9,7 @@ $colors = ['bg-[#0081A7]', 'bg-[#00AFB9]', 'bg-[#01B8EC]', 'bg-[#67AEF0]'];
         <div class="text-center relative z-10">
             <span class="text-4xl text-primary">Lembaga di</span> <br>
             <span class="text-4xl text-secondary">Desa</span> <br>
-            <span class="text-4xl text-primary">Wringinanom</span>
+            <span class="text-4xl text-primary">Sambiganen</span>
         </div>
     </div>
 

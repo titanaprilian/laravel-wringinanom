@@ -31,9 +31,9 @@
         <a href="{{route('home')}}" class="flex justify-between gap-2">
           <img class="h-16 w-16" src="{{asset('assets/img/logo.svg')}}" alt="logo ponorogo">
           <div class="flex flex-col justify-center">
-            <h1 class="text-lg">Desa Wringinanom</h1>
+            <h1 class="text-lg">Desa Sambiganen</h1>
             <div>
-              <p class="text-sm leading-4">Kec. Sambit, Kab. Ponorogo <br /> Jawa Timur</p>
+              <p class="text-sm leading-4">Kec. Ngrayun, Kab. Ponorogo <br /> Jawa Timur</p>
             </div>
           </div>
         </a>
